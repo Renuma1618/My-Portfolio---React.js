@@ -1,4 +1,4 @@
-# 🚀 React Portfolio Website
+#  React Portfolio Website
 
 This is a personal portfolio website built using **React.js**. It highlights my profile, skills, services, and latest projects, with a fully responsive layout and smooth navigation experience. The site is designed to give a quick overview of who I am, what I do, and how to contact me.
 
@@ -28,7 +28,7 @@ This is a personal portfolio website built using **React.js**. It highlights my 
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - **React.js**
 - **JavaScript (ES6)**
@@ -39,7 +39,7 @@ This is a personal portfolio website built using **React.js**. It highlights my 
 
 ---
 
-## 📬 Contact Form Setup (Web3Forms)
+## Contact Form Setup (Web3Forms)
 
 To enable the contact form:
 1. Sign up at [Web3Forms](https://web3forms.com) and get your API key.
