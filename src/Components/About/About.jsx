@@ -2,7 +2,7 @@ import React from 'react'
 import './About.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
 import profile_img from '../../assets/PROFILE.jpg'
-import Navbar from '../Navbar/Navbar'
+
 
 const About = () => {
    
