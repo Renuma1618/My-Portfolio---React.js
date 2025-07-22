@@ -15,10 +15,16 @@ import signuplogin_img from '../assets/signup-with Api.jpg';
 const mywork_data = [
   {
     w_no: 1,
-    w_name: "E-Commerce App",
+    w_name: "E-Commerce App-Frontend",
     w_img: ecommerce_img,
     w_link: "https://e-commerce-shop-with-react-js-front.vercel.app/"
     
+  },
+   {
+    w_no: 7,
+    w_name: "Next.js + Supabase App-FullStack",
+    w_img: nextsupabase_img,
+    w_link: "https://next-supabase-app-rq9n.vercel.app/"
   },
   {
     w_no: 2,
@@ -28,37 +34,32 @@ const mywork_data = [
   },
   {
     w_no: 3,
-    w_name: "Weather App",
+    w_name: "Weather App-API integration",
     w_img: weather_img,
     w_link: "https://weatherreact1816.netlify.app/"
   },
   {
     w_no: 4,
-    w_name: "Todo App",
+    w_name: "Todo App-React.js",
     w_img: todo_img,
     w_link: "https://todo-list-app-react-4qpe.vercel.app/"
   },
   {
     w_no: 5,
-    w_name: "Signup/Login Page",
+    w_name: "Signup/Login Page-React Static",
     w_img: signup_img,
     w_link: "https://signuplogin1618.netlify.app/"
   },
   {
     w_no: 6,
-    w_name: "Calculator",
+    w_name: "Calculator-React.js",
     w_img: calculator_img,
     w_link: "https://calculator1816.netlify.app/"
   },
-  {
-    w_no: 7,
-    w_name: "Next.js + Supabase App",
-    w_img: nextsupabase_img,
-    w_link: "https://next-supabase-app-rq9n.vercel.app/"
-  },
+ 
   {
     w_no: 8,
-    w_name: "Movie Search App",
+    w_name: "Movie Search App-API Integration",
     w_img: movie_img,
     w_link: "https://moviesearchappreact1816.netlify.app/"
   },
@@ -70,19 +71,19 @@ const mywork_data = [
   },
   {
     w_no: 10,
-    w_name: "Shoe Store Page",
+    w_name: "Shoe Store Page-HTML,CSS",
     w_img: shoe_img,
     w_link: "https://shoepage134.netlify.app/"
   },
   {
     w_no: 11,
-    w_name: "Typing Speed Test",
+    w_name: "Typing Speed Test-React.js",
     w_img: typing_img,
     w_link: "https://typespeedtest1.netlify.app/"
   },
   {
     w_no: 12,
-    w_name: "Calendar App",
+    w_name: "Calendar App-React.js",
     w_img: calendar_img,
     w_link: "https://calendorrenu.netlify.app/"
   }

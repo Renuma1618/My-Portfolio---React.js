@@ -11,7 +11,7 @@ const Profile = () => {
         <p> I have experinece working with frontend technologies- HTML, CSS, javascript, typescript, react.js, Next.js, Testing with Postman Api, Git , Github, Agile-Scrum , Jira.</p>
 
         <div className="contact-info" style={{ marginTop: '8px', fontSize: '0.9rem' }}>
-            <p>Email: <a href="mailto:renuka.nndikolla@gmail.com">renuka.nandikolla@gmail.com</a></p>
+            <p>Email: <a href="mailto:renuka.nandikolla@gmail.com">renuka.nandikolla@gmail.com</a></p>
             <p>Phone: <a href="tel:+46768955970">+46 768955970</a></p>
           </div>
         <div className="profile-action">
