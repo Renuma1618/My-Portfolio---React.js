@@ -18,6 +18,7 @@ const mywork_data = [
     w_name: "E-Commerce App",
     w_img: ecommerce_img,
     w_link: "https://e-commerce-shop-with-react-js-front.vercel.app/"
+    
   },
   {
     w_no: 2,

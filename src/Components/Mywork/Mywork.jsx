@@ -23,15 +23,16 @@ const Mywork = () => {
               className="mywork-item"
             >
               <img src={work.w_img} alt={work.w_name} />
+              <p className="work-title">{work.w_name}</p>
             </a>
           );
         })}
       </div>
 
-      <div className="mywork-showmore">
+      {/* <div className="mywork-showmore">
         <p>Show more</p>
         <img src={arrow_icon} alt='arrow icon' />
-      </div>
+      </div> */}
     </div>
   );
 };

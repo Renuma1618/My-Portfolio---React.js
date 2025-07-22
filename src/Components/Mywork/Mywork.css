@@ -56,7 +56,7 @@
 
 }
 
-.mywork-showmore {
+/* .mywork-showmore {
   display: flex;
   gap: 15px;
   border-radius: 50px;
@@ -74,6 +74,14 @@
 .mywork-showmore:hover {
   gap:30px;
 transition:0.6s;
+} */
+
+.work-title {
+ 
+  font-size: 1rem;
+  font-weight: 600;
+  color: #e0d9d9;
+  text-align: center;
 }
 
 @media (max-width: 768px) {
@@ -100,10 +108,11 @@ transition:0.6s;
         width: 100%;
         height: 100%;
     }
-    .mywork-showmore {
+    /* .mywork-showmore {
         padding: 20px 40px;
         font-size: 18px;
         margin: 50px auto;
         cursor:pointer;
-    }
+    } */
 }
+
